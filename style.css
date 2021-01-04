@@ -38,6 +38,10 @@ text-align: justify;
     color: black;
     border-radius: 10px;
     font-weight: bold;
+   
+}
+#center{
+    text-decoration: inline;
 }
 .dream-area{
     background-image: url(images/dream-bg.png);
@@ -73,9 +77,15 @@ text-align: justify;
     border-left: 7px solid;
     border-image: linear-gradient(180deg, blue,cyan);
     border-image-slice: 1;
+    
 }
 #Learner{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, blue,cyan);
     border-image-slice: 1;
+}
+.hire{
+    font-size: 15px;
+    font-weight: bold;
+    
 }
