@@ -65,3 +65,7 @@ text-align: justify;
     color:black;
     font-size: 30px;
 }
+.box{
+    text-align: justify;
+    padding: 5px 15px 5px 5px;
+}
