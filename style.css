@@ -69,3 +69,13 @@ text-align: justify;
     text-align: justify;
     padding: 5px 15px 5px 5px;
 }
+#Junior-dev{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue,cyan);
+    border-image-slice: 1;
+}
+#Learner{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue,cyan);
+    border-image-slice: 1;
+}
